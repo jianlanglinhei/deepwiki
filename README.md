@@ -280,3 +280,18 @@ github.com
 medium.com
 medium.com
 github.com
+
+## Getting Started
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the analyzer on `example.py`:
+
+```bash
+python -m deepwiki example.py
+```
+
